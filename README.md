@@ -8,12 +8,6 @@ This repository contains a Python-based web scraping tool designed to extract ne
 - Automatically sort articles from newest to oldest.
 - Extract article titles, URLs, and content.
 
-## Installation
-To set up the scraping tool, follow these steps:
-1. Clone the repository: `git clone [repository URL]`
-2. Install the required Python packages: `pip install -r requirements.txt`
-3. Ensure Playwright is set up correctly: `playwright install`
-
 ## Usage
 To start scraping articles, run the following command:
 
